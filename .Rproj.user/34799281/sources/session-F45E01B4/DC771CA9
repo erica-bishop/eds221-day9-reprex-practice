@@ -1,0 +1,32 @@
+{
+    "id": "DC771CA9",
+    "path": "~/Documents/MEDS class materials/EDS221/eds221-day9-reprex-practice/table-practice.qmd",
+    "project_path": "table-practice.qmd",
+    "type": "quarto_markdown",
+    "hash": "206761802",
+    "contents": "",
+    "dirty": false,
+    "created": 1660858833423.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "35,0",
+        "scrollLine": "38",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "61:47.272727966308594"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1660860643,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1660860643203,
+    "read_only": false,
+    "read_only_alternatives": []
+}
